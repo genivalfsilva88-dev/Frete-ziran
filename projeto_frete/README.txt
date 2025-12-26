@@ -1,4 +1,4 @@
-# Projeto Frete (Front + Apps Script)
+# Projeto Frete (Front + Apps Script).
 
 Este ZIP contém:
 - index.html / assets do front
